@@ -16,3 +16,4 @@
 # fix 8081
 # refactor 6317
 # fix 7902
+# fix 6979
