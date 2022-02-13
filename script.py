@@ -56,3 +56,4 @@
 # optimize 7127
 # refactor 7996
 # refactor 5308
+# optimize 6347
